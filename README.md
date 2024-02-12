@@ -5,3 +5,5 @@ Used libraries:
  - numpy
  - sympy
  - matplotlib
+
+Differential equation solved with Galerking FEM method. Shape function determined by interpolation to nodes values with Vandermonde matrix.

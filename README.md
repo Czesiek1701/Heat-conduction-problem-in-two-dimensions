@@ -25,7 +25,7 @@ Controlling files contain geometry parameters and boundary conditions, as sample
 
 ## Result sample
 
-This input generate results results above:
+This input generate result as above:
 
 ![edge_size_0_001](https://github.com/Czesiek1701/Heat-conduction-problem-in-two-dimensions/assets/157902583/1ccd8295-e638-4c37-bdfc-f930a4aecae7)
 

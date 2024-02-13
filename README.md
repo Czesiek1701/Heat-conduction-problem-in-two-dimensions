@@ -13,7 +13,7 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
  - file *geometry.txt*
 
 `
-1 -0.00 0.02 0.06 0.03
+1 -0.00 0.02 0.06 0.03\n
 2 0.05 0.00 0.06 0.02
 `
 

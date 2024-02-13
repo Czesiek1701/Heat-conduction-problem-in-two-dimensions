@@ -32,5 +32,6 @@ This input generate result as above:
  - save symbolic matrices to file to avoid unnecessary calculation of them during each run. Use Jacobian matrices.
  - make rectangle and flexible elements
  - add triangle elements
+ - upgrade meshing
 
 

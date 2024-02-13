@@ -13,7 +13,8 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
  - file *geometry.txt*
 
 `
-1 -0.00 0.02 0.06 0.03\n
+1 -0.00 0.02 0.06 0.03
+
 2 0.05 0.00 0.06 0.02
 `
 
@@ -21,10 +22,15 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
 
 `
 -0.00 0.02 -0.00 0.03 cnv 85 20
+
 -0.00 0.02 0.05 0.02 cnv 85 20
+
 -0.00 0.03 0.06 0.03 cnv 85 20
+
 0.06 0.00 0.06 0.03 T 130
+
 0.05 0.00 0.05 0.02 cnv 85 20
+
 0.05 0.00 0.06 0.00 cnv 85 20
 `
 

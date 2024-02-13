@@ -27,8 +27,7 @@ Controlling files contain geometry parameters and boundary conditions, as sample
 3 -0.00 0.02 0.05 0.02 cnv 85 20 `<br>`
 4 -0.00 0.03 0.06 0.03 cnv 85 20 `<br>`
 5 0.06 0.00 0.06 0.03 T 130 `<br>`
-6 0.05 0.00 0.05 0.02 cnv 85 20 `<br>`
-7 0.05 0.00 0.06 0.00 cnv 85 20`
+6 0.05 0.00 0.05 0.02 cnv 85 20`<br>`7 0.05 0.00 0.06 0.00 cnv 85 20`
 
 ## Result sample
 

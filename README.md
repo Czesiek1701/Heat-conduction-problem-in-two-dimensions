@@ -14,8 +14,7 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
 
 `
 1 -0.00 0.02 0.06 0.03 # first rectangle `<br>`
-2 0.05 0.00 0.06 0.02  # second rectangle
-`
+2 0.05 0.00 0.06 0.02  # second rectangle`
 
  - file *boundary_conditions.txt*
 
@@ -25,8 +24,7 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
 4 -0.00 0.03 0.06 0.03 cnv 85 20 `<br>`
 5 0.06 0.00 0.06 0.03 T 130 `<br>`
 6 0.05 0.00 0.05 0.02 cnv 85 20 `<br>`
-7 0.05 0.00 0.06 0.00 cnv 85 20 
-`
+7 0.05 0.00 0.06 0.00 cnv 85 20`
 
 This input generate results results above:
 

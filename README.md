@@ -10,7 +10,7 @@ Differential equation solved with Galerking FEM method. Shape function determine
 
 Inputs are file containing geometry parameters and boundary conditions, as sample below:
 
- - file *geometry.txt*
+ - file *geometry.txt* - contains points of opposite corners
 
 `
 1 -0.00 0.02 0.06 0.03 # first rectangle `<br>`
@@ -20,7 +20,7 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
  - file *boundary_conditions.txt*
 
 `
-#cnv - convection, hf - heatflow, T - temperature
+#cnv - convection, hf - heatflow, T - temperature`<br>`
 -0.00 0.02 -0.00 0.03 cnv 85 20 `<br>`
 -0.00 0.02 0.05 0.02 cnv 85 20 `<br>`
 -0.00 0.03 0.06 0.03 cnv 85 20 `<br>`
@@ -28,6 +28,9 @@ Inputs are file containing geometry parameters and boundary conditions, as sampl
 0.05 0.00 0.05 0.02 cnv 85 20 `<br>`
 0.05 0.00 0.06 0.00 cnv 85 20 
 `
+
+This input generate results results above:
+![edge_size_0_001](https://github.com/Czesiek1701/Heat-conduction-problem-in-two-dimensions/assets/157902583/1ccd8295-e638-4c37-bdfc-f930a4aecae7)
 
 
 

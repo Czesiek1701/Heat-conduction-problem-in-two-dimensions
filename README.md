@@ -14,10 +14,10 @@ Differential equation solved with Galerking FEM method. Shape function determine
 
 Controlling files contain geometry parameters and boundary conditions, as sample below:
 
- - file *geometry.txt* - contains points of opposite corners
+ - file *geometry.txt* - contains points of opposite corners of rectangles
 
 `
-1 -0.00 0.02 0.06 0.03 # first rectangle `<br>`2 0.05 0.00 0.06 0.02  # second rectangle`
+1 -0.00 0.02 0.06 0.03`<br>`2 0.05 0.00 0.06 0.02`
 
  - file *boundary_conditions.txt*
 

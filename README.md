@@ -16,8 +16,7 @@ Controlling files contain geometry parameters and boundary conditions, as sample
 
  - file *geometry.txt* - contains points of opposite corners of rectangles
 
-`
-1 -0.00 0.02 0.06 0.03`<br>`2 0.05 0.00 0.06 0.02`
+`1 -0.00 0.02 0.06 0.03`<br>`2 0.05 0.00 0.06 0.02`
 
  - file *boundary_conditions.txt*
 
